@@ -1,0 +1,1028 @@
+Class 0 accuracy before unlearning: 1.0000
+Class 1 accuracy before unlearning: 0.0000
+Class 2 accuracy before unlearning: 0.9556
+Class 3 accuracy before unlearning: 0.9773
+Class 4 accuracy before unlearning: 0.9250
+Test accuracy before unlearning: 0.7731
+
+-----------------Starting continue learning-----------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 0.9341
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.2905
+Epoch 1/60: Continue class (index 6) accuracy during training: 0.2905
+Epoch 1/60: Other classes accuracy during training: 0.9849
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9333
+Testing Class 3 accuracy after continue learning: 0.8864
+Testing Class 4 accuracy after continue learning: 0.7750
+Testing Class 6 accuracy after continue learning: 0.5429
+Epoch 1/60: Continue class (index 6) accuracy after continue learning: 0.5429
+Epoch 1/60: Other classes accuracy after continue learning: 0.9105
+Epoch 1/60: Train Loss: 0.0552
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 0.9231
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.7432
+Epoch 2/60: Continue class (index 6) accuracy during training: 0.7432
+Epoch 2/60: Other classes accuracy during training: 0.9823
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9111
+Testing Class 3 accuracy after continue learning: 0.8636
+Testing Class 4 accuracy after continue learning: 0.8250
+Testing Class 6 accuracy after continue learning: 0.7429
+Epoch 2/60: Continue class (index 6) accuracy after continue learning: 0.7429
+Epoch 2/60: Other classes accuracy after continue learning: 0.9105
+Epoch 2/60: Train Loss: 0.0341
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 0.9890
+Training Class 4 accuracy during training: 0.9939
+Training Class 6 accuracy during training: 0.8108
+Epoch 3/60: Continue class (index 6) accuracy during training: 0.8108
+Epoch 3/60: Other classes accuracy during training: 0.9962
+Testing Class 0 accuracy after continue learning: 0.9180
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8667
+Testing Class 3 accuracy after continue learning: 0.8864
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.8286
+Epoch 3/60: Continue class (index 6) accuracy after continue learning: 0.8286
+Epoch 3/60: Other classes accuracy after continue learning: 0.9053
+Epoch 3/60: Train Loss: 0.0273
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 0.9835
+Training Class 4 accuracy during training: 0.9879
+Training Class 6 accuracy during training: 0.8784
+Epoch 4/60: Continue class (index 6) accuracy during training: 0.8784
+Epoch 4/60: Other classes accuracy during training: 0.9937
+Testing Class 0 accuracy after continue learning: 0.9836
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9333
+Testing Class 3 accuracy after continue learning: 1.0000
+Testing Class 4 accuracy after continue learning: 0.9750
+Testing Class 6 accuracy after continue learning: 0.6286
+Epoch 4/60: Continue class (index 6) accuracy after continue learning: 0.6286
+Epoch 4/60: Other classes accuracy after continue learning: 0.9737
+Epoch 4/60: Train Loss: 0.0222
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 0.9725
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9122
+Epoch 5/60: Continue class (index 6) accuracy during training: 0.9122
+Epoch 5/60: Other classes accuracy during training: 0.9937
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8889
+Testing Class 3 accuracy after continue learning: 0.8864
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 5/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 5/60: Other classes accuracy after continue learning: 0.9316
+Epoch 5/60: Train Loss: 0.0215
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 0.9945
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9189
+Epoch 6/60: Continue class (index 6) accuracy during training: 0.9189
+Epoch 6/60: Other classes accuracy during training: 0.9987
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8889
+Testing Class 3 accuracy after continue learning: 0.8864
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 6/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 6/60: Other classes accuracy after continue learning: 0.9316
+Epoch 6/60: Train Loss: 0.0184
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 0.9890
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9257
+Epoch 7/60: Continue class (index 6) accuracy during training: 0.9257
+Epoch 7/60: Other classes accuracy during training: 0.9975
+Testing Class 0 accuracy after continue learning: 0.9672
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8889
+Testing Class 3 accuracy after continue learning: 0.9318
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 7/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 7/60: Other classes accuracy after continue learning: 0.9368
+Epoch 7/60: Train Loss: 0.0161
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 0.9835
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9257
+Epoch 8/60: Continue class (index 6) accuracy during training: 0.9257
+Epoch 8/60: Other classes accuracy during training: 0.9962
+Testing Class 0 accuracy after continue learning: 0.9344
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 0.8636
+Testing Class 4 accuracy after continue learning: 0.8750
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 8/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 8/60: Other classes accuracy after continue learning: 0.9105
+Epoch 8/60: Train Loss: 0.0163
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9527
+Epoch 9/60: Continue class (index 6) accuracy during training: 0.9527
+Epoch 9/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8667
+Testing Class 3 accuracy after continue learning: 1.0000
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.8000
+Epoch 9/60: Continue class (index 6) accuracy after continue learning: 0.8000
+Epoch 9/60: Other classes accuracy after continue learning: 0.9579
+Epoch 9/60: Train Loss: 0.0166
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9459
+Epoch 10/60: Continue class (index 6) accuracy during training: 0.9459
+Epoch 10/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 0.9836
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9778
+Testing Class 3 accuracy after continue learning: 0.9318
+Testing Class 4 accuracy after continue learning: 0.8500
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 10/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 10/60: Other classes accuracy after continue learning: 0.9421
+Epoch 10/60: Train Loss: 0.0138
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9324
+Epoch 11/60: Continue class (index 6) accuracy during training: 0.9324
+Epoch 11/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8667
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9000
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 11/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 11/60: Other classes accuracy after continue learning: 0.9368
+Epoch 11/60: Train Loss: 0.0119
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9392
+Epoch 12/60: Continue class (index 6) accuracy during training: 0.9392
+Epoch 12/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.7750
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 12/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 12/60: Other classes accuracy after continue learning: 0.9316
+Epoch 12/60: Train Loss: 0.0117
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9392
+Epoch 13/60: Continue class (index 6) accuracy during training: 0.9392
+Epoch 13/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 0.9836
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8889
+Testing Class 3 accuracy after continue learning: 0.7045
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.9143
+Epoch 13/60: Continue class (index 6) accuracy after continue learning: 0.9143
+Epoch 13/60: Other classes accuracy after continue learning: 0.8895
+Epoch 13/60: Train Loss: 0.0144
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 0.9670
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9324
+Epoch 14/60: Continue class (index 6) accuracy during training: 0.9324
+Epoch 14/60: Other classes accuracy during training: 0.9924
+Testing Class 0 accuracy after continue learning: 0.9672
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 1.0000
+Testing Class 4 accuracy after continue learning: 0.9000
+Testing Class 6 accuracy after continue learning: 0.8000
+Epoch 14/60: Continue class (index 6) accuracy after continue learning: 0.8000
+Epoch 14/60: Other classes accuracy after continue learning: 0.9579
+Epoch 14/60: Train Loss: 0.0206
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 0.9945
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9257
+Epoch 15/60: Continue class (index 6) accuracy during training: 0.9257
+Epoch 15/60: Other classes accuracy during training: 0.9987
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8667
+Testing Class 3 accuracy after continue learning: 1.0000
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.5714
+Epoch 15/60: Continue class (index 6) accuracy after continue learning: 0.5714
+Epoch 15/60: Other classes accuracy after continue learning: 0.9579
+Epoch 15/60: Train Loss: 0.0173
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 0.9890
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9527
+Epoch 16/60: Continue class (index 6) accuracy during training: 0.9527
+Epoch 16/60: Other classes accuracy during training: 0.9975
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 0.9773
+Testing Class 4 accuracy after continue learning: 0.7750
+Testing Class 6 accuracy after continue learning: 0.9143
+Epoch 16/60: Continue class (index 6) accuracy after continue learning: 0.9143
+Epoch 16/60: Other classes accuracy after continue learning: 0.9368
+Epoch 16/60: Train Loss: 0.0174
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9595
+Epoch 17/60: Continue class (index 6) accuracy during training: 0.9595
+Epoch 17/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 0.9836
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 1.0000
+Testing Class 3 accuracy after continue learning: 0.9318
+Testing Class 4 accuracy after continue learning: 0.8500
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 17/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 17/60: Other classes accuracy after continue learning: 0.9474
+Epoch 17/60: Train Loss: 0.0159
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9662
+Epoch 18/60: Continue class (index 6) accuracy during training: 0.9662
+Epoch 18/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8222
+Testing Class 3 accuracy after continue learning: 0.9773
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.8286
+Epoch 18/60: Continue class (index 6) accuracy after continue learning: 0.8286
+Epoch 18/60: Other classes accuracy after continue learning: 0.9421
+Epoch 18/60: Train Loss: 0.0123
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9595
+Epoch 19/60: Continue class (index 6) accuracy during training: 0.9595
+Epoch 19/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8889
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 19/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 19/60: Other classes accuracy after continue learning: 0.9526
+Epoch 19/60: Train Loss: 0.0115
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9865
+Epoch 20/60: Continue class (index 6) accuracy during training: 0.9865
+Epoch 20/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9778
+Testing Class 3 accuracy after continue learning: 1.0000
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 20/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 20/60: Other classes accuracy after continue learning: 0.9789
+Epoch 20/60: Train Loss: 0.0097
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9865
+Epoch 21/60: Continue class (index 6) accuracy during training: 0.9865
+Epoch 21/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 1.0000
+Testing Class 3 accuracy after continue learning: 1.0000
+Testing Class 4 accuracy after continue learning: 0.9000
+Testing Class 6 accuracy after continue learning: 0.7714
+Epoch 21/60: Continue class (index 6) accuracy after continue learning: 0.7714
+Epoch 21/60: Other classes accuracy after continue learning: 0.9789
+Epoch 21/60: Train Loss: 0.0088
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9797
+Epoch 22/60: Continue class (index 6) accuracy during training: 0.9797
+Epoch 22/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 1.0000
+Testing Class 3 accuracy after continue learning: 0.9091
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.9143
+Epoch 22/60: Continue class (index 6) accuracy after continue learning: 0.9143
+Epoch 22/60: Other classes accuracy after continue learning: 0.9632
+Epoch 22/60: Train Loss: 0.0101
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9730
+Epoch 23/60: Continue class (index 6) accuracy during training: 0.9730
+Epoch 23/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.8750
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 23/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 23/60: Other classes accuracy after continue learning: 0.9526
+Epoch 23/60: Train Loss: 0.0107
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9932
+Epoch 24/60: Continue class (index 6) accuracy during training: 0.9932
+Epoch 24/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 1.0000
+Testing Class 4 accuracy after continue learning: 0.8500
+Testing Class 6 accuracy after continue learning: 0.8286
+Epoch 24/60: Continue class (index 6) accuracy after continue learning: 0.8286
+Epoch 24/60: Other classes accuracy after continue learning: 0.9579
+Epoch 24/60: Train Loss: 0.0092
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9932
+Epoch 25/60: Continue class (index 6) accuracy during training: 0.9932
+Epoch 25/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.8750
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 25/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 25/60: Other classes accuracy after continue learning: 0.9526
+Epoch 25/60: Train Loss: 0.0085
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9932
+Epoch 26/60: Continue class (index 6) accuracy during training: 0.9932
+Epoch 26/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9333
+Testing Class 3 accuracy after continue learning: 0.9773
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.8000
+Epoch 26/60: Continue class (index 6) accuracy after continue learning: 0.8000
+Epoch 26/60: Other classes accuracy after continue learning: 0.9632
+Epoch 26/60: Train Loss: 0.0084
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9865
+Epoch 27/60: Continue class (index 6) accuracy during training: 0.9865
+Epoch 27/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.8000
+Epoch 27/60: Continue class (index 6) accuracy after continue learning: 0.8000
+Epoch 27/60: Other classes accuracy after continue learning: 0.9684
+Epoch 27/60: Train Loss: 0.0089
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9865
+Epoch 28/60: Continue class (index 6) accuracy during training: 0.9865
+Epoch 28/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 0.9672
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9000
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 28/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 28/60: Other classes accuracy after continue learning: 0.9474
+Epoch 28/60: Train Loss: 0.0084
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9865
+Epoch 29/60: Continue class (index 6) accuracy during training: 0.9865
+Epoch 29/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9333
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9000
+Testing Class 6 accuracy after continue learning: 0.8286
+Epoch 29/60: Continue class (index 6) accuracy after continue learning: 0.8286
+Epoch 29/60: Other classes accuracy after continue learning: 0.9526
+Epoch 29/60: Train Loss: 0.0074
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9865
+Epoch 30/60: Continue class (index 6) accuracy during training: 0.9865
+Epoch 30/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9750
+Testing Class 6 accuracy after continue learning: 0.9143
+Epoch 30/60: Continue class (index 6) accuracy after continue learning: 0.9143
+Epoch 30/60: Other classes accuracy after continue learning: 0.9737
+Epoch 30/60: Train Loss: 0.0080
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 31/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 31/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9111
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 31/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 31/60: Other classes accuracy after continue learning: 0.9526
+Epoch 31/60: Train Loss: 0.0069
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 0.9932
+Epoch 32/60: Continue class (index 6) accuracy during training: 0.9932
+Epoch 32/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 0.9508
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8667
+Testing Class 3 accuracy after continue learning: 1.0000
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 32/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 32/60: Other classes accuracy after continue learning: 0.9421
+Epoch 32/60: Train Loss: 0.0064
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 33/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 33/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9778
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.8750
+Testing Class 6 accuracy after continue learning: 0.9143
+Epoch 33/60: Continue class (index 6) accuracy after continue learning: 0.9143
+Epoch 33/60: Other classes accuracy after continue learning: 0.9579
+Epoch 33/60: Train Loss: 0.0074
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 34/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 34/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 0.9836
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 34/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 34/60: Other classes accuracy after continue learning: 0.9579
+Epoch 34/60: Train Loss: 0.0067
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 35/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 35/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8667
+Testing Class 3 accuracy after continue learning: 0.9773
+Testing Class 4 accuracy after continue learning: 0.9750
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 35/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 35/60: Other classes accuracy after continue learning: 0.9579
+Epoch 35/60: Train Loss: 0.0072
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 36/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 36/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9778
+Testing Class 3 accuracy after continue learning: 0.9091
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 36/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 36/60: Other classes accuracy after continue learning: 0.9579
+Epoch 36/60: Train Loss: 0.0060
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 37/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 37/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9333
+Testing Class 3 accuracy after continue learning: 1.0000
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 37/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 37/60: Other classes accuracy after continue learning: 0.9737
+Epoch 37/60: Train Loss: 0.0073
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 38/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 38/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 0.9836
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9333
+Testing Class 3 accuracy after continue learning: 1.0000
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.9143
+Epoch 38/60: Continue class (index 6) accuracy after continue learning: 0.9143
+Epoch 38/60: Other classes accuracy after continue learning: 0.9632
+Epoch 38/60: Train Loss: 0.0059
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 39/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 39/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 0.9836
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 0.9318
+Testing Class 4 accuracy after continue learning: 0.9750
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 39/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 39/60: Other classes accuracy after continue learning: 0.9632
+Epoch 39/60: Train Loss: 0.0061
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 40/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 40/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9111
+Testing Class 3 accuracy after continue learning: 0.9773
+Testing Class 4 accuracy after continue learning: 0.8750
+Testing Class 6 accuracy after continue learning: 0.9143
+Epoch 40/60: Continue class (index 6) accuracy after continue learning: 0.9143
+Epoch 40/60: Other classes accuracy after continue learning: 0.9474
+Epoch 40/60: Train Loss: 0.0062
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 41/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 41/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9000
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 41/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 41/60: Other classes accuracy after continue learning: 0.9579
+Epoch 41/60: Train Loss: 0.0053
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 42/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 42/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9111
+Testing Class 3 accuracy after continue learning: 0.9773
+Testing Class 4 accuracy after continue learning: 0.9000
+Testing Class 6 accuracy after continue learning: 0.8286
+Epoch 42/60: Continue class (index 6) accuracy after continue learning: 0.8286
+Epoch 42/60: Other classes accuracy after continue learning: 0.9526
+Epoch 42/60: Train Loss: 0.0053
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 43/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 43/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 0.9836
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8889
+Testing Class 3 accuracy after continue learning: 0.9773
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 43/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 43/60: Other classes accuracy after continue learning: 0.9474
+Epoch 43/60: Train Loss: 0.0055
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 44/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 44/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8667
+Testing Class 3 accuracy after continue learning: 0.9318
+Testing Class 4 accuracy after continue learning: 0.9750
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 44/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 44/60: Other classes accuracy after continue learning: 0.9474
+Epoch 44/60: Train Loss: 0.0052
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 45/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 45/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 45/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 45/60: Other classes accuracy after continue learning: 0.9632
+Epoch 45/60: Train Loss: 0.0049
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 46/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 46/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8889
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 46/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 46/60: Other classes accuracy after continue learning: 0.9526
+Epoch 46/60: Train Loss: 0.0059
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 47/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 47/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9778
+Testing Class 3 accuracy after continue learning: 0.9773
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 47/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 47/60: Other classes accuracy after continue learning: 0.9789
+Epoch 47/60: Train Loss: 0.0047
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 48/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 48/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 0.9836
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 48/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 48/60: Other classes accuracy after continue learning: 0.9579
+Epoch 48/60: Train Loss: 0.0044
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 49/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 49/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9333
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9000
+Testing Class 6 accuracy after continue learning: 0.9143
+Epoch 49/60: Continue class (index 6) accuracy after continue learning: 0.9143
+Epoch 49/60: Other classes accuracy after continue learning: 0.9526
+Epoch 49/60: Train Loss: 0.0043
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 50/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 50/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9333
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 50/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 50/60: Other classes accuracy after continue learning: 0.9632
+Epoch 50/60: Train Loss: 0.0038
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 51/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 51/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 0.9836
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9778
+Testing Class 3 accuracy after continue learning: 0.9773
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 51/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 51/60: Other classes accuracy after continue learning: 0.9684
+Epoch 51/60: Train Loss: 0.0043
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 52/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 52/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9556
+Testing Class 3 accuracy after continue learning: 0.9318
+Testing Class 4 accuracy after continue learning: 0.9750
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 52/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 52/60: Other classes accuracy after continue learning: 0.9684
+Epoch 52/60: Train Loss: 0.0037
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 53/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 53/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8444
+Testing Class 3 accuracy after continue learning: 1.0000
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 53/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 53/60: Other classes accuracy after continue learning: 0.9526
+Epoch 53/60: Train Loss: 0.0047
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 54/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 54/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9778
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.8250
+Testing Class 6 accuracy after continue learning: 0.9143
+Epoch 54/60: Continue class (index 6) accuracy after continue learning: 0.9143
+Epoch 54/60: Other classes accuracy after continue learning: 0.9474
+Epoch 54/60: Train Loss: 0.0059
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 55/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 55/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9333
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 55/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 55/60: Other classes accuracy after continue learning: 0.9579
+Epoch 55/60: Train Loss: 0.0072
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 56/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 56/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 0.9672
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9111
+Testing Class 3 accuracy after continue learning: 1.0000
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.8571
+Epoch 56/60: Continue class (index 6) accuracy after continue learning: 0.8571
+Epoch 56/60: Other classes accuracy after continue learning: 0.9579
+Epoch 56/60: Train Loss: 0.0051
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 57/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 57/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.8667
+Testing Class 3 accuracy after continue learning: 0.9773
+Testing Class 4 accuracy after continue learning: 0.9750
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 57/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 57/60: Other classes accuracy after continue learning: 0.9579
+Epoch 57/60: Train Loss: 0.0046
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 58/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 58/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9333
+Testing Class 3 accuracy after continue learning: 0.9318
+Testing Class 4 accuracy after continue learning: 0.9750
+Testing Class 6 accuracy after continue learning: 0.8857
+Epoch 58/60: Continue class (index 6) accuracy after continue learning: 0.8857
+Epoch 58/60: Other classes accuracy after continue learning: 0.9632
+Epoch 58/60: Train Loss: 0.0044
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 59/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 59/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9778
+Testing Class 3 accuracy after continue learning: 0.9545
+Testing Class 4 accuracy after continue learning: 0.9500
+Testing Class 6 accuracy after continue learning: 0.9143
+Epoch 59/60: Continue class (index 6) accuracy after continue learning: 0.9143
+Epoch 59/60: Other classes accuracy after continue learning: 0.9737
+Epoch 59/60: Train Loss: 0.0041
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Training Class 6 accuracy during training: 1.0000
+Epoch 60/60: Continue class (index 6) accuracy during training: 1.0000
+Epoch 60/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after continue learning: 1.0000
+Testing Class 1 accuracy after continue learning: 0.0000
+Testing Class 2 accuracy after continue learning: 0.9111
+Testing Class 3 accuracy after continue learning: 0.9318
+Testing Class 4 accuracy after continue learning: 0.9250
+Testing Class 6 accuracy after continue learning: 0.9143
+Epoch 60/60: Continue class (index 6) accuracy after continue learning: 0.9143
+Epoch 60/60: Other classes accuracy after continue learning: 0.9474
+Epoch 60/60: Train Loss: 0.0040
+--------------------------------------------

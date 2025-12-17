@@ -1,0 +1,968 @@
+Class 0 accuracy before unlearning: 1.0000
+Class 1 accuracy before unlearning: 1.0000
+Class 2 accuracy before unlearning: 0.9778
+Class 3 accuracy before unlearning: 1.0000
+Class 4 accuracy before unlearning: 0.9250
+Test accuracy before unlearning: 0.9832
+
+-----------------Starting unlearning training for class index 1...-----------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.6881
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 1/60: Unlearned class (index 1) accuracy during training: 0.6881
+Epoch 1/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.2292
+Testing Class 2 accuracy after unlearning: 0.8444
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.9750
+Epoch 1/60: Unlearned class (index 1) accuracy after unlearning: 0.2292
+Epoch 1/60: Other classes accuracy after unlearning: 0.9526
+Epoch 1/60: Train Loss: 0.0663
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0347
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 2/60: Unlearned class (index 1) accuracy during training: 0.0347
+Epoch 2/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8444
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.8750
+Epoch 2/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 2/60: Other classes accuracy after unlearning: 0.9368
+Epoch 2/60: Train Loss: 0.0473
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0149
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 0.9945
+Training Class 4 accuracy during training: 1.0000
+Epoch 3/60: Unlearned class (index 1) accuracy during training: 0.0149
+Epoch 3/60: Other classes accuracy during training: 0.9987
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9333
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.7000
+Epoch 3/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 3/60: Other classes accuracy after unlearning: 0.9158
+Epoch 3/60: Train Loss: 0.0478
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0050
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 4/60: Unlearned class (index 1) accuracy during training: 0.0050
+Epoch 4/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8222
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.7750
+Epoch 4/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 4/60: Other classes accuracy after unlearning: 0.9053
+Epoch 4/60: Train Loss: 0.0478
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0099
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 5/60: Unlearned class (index 1) accuracy during training: 0.0099
+Epoch 5/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9333
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.8250
+Epoch 5/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 5/60: Other classes accuracy after unlearning: 0.9421
+Epoch 5/60: Train Loss: 0.0445
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 6/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 6/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8000
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.8250
+Epoch 6/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 6/60: Other classes accuracy after unlearning: 0.9158
+Epoch 6/60: Train Loss: 0.0441
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 0.9945
+Training Class 4 accuracy during training: 1.0000
+Epoch 7/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 7/60: Other classes accuracy during training: 0.9987
+Testing Class 0 accuracy after unlearning: 0.9836
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8889
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.8750
+Epoch 7/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 7/60: Other classes accuracy after unlearning: 0.9421
+Epoch 7/60: Train Loss: 0.0435
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 8/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 8/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.8361
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9778
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.8750
+Epoch 8/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 8/60: Other classes accuracy after unlearning: 0.9158
+Epoch 8/60: Train Loss: 0.0409
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 9/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 9/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8444
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.8750
+Epoch 9/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 9/60: Other classes accuracy after unlearning: 0.9368
+Epoch 9/60: Train Loss: 0.0442
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 10/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 10/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8222
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.7750
+Epoch 10/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 10/60: Other classes accuracy after unlearning: 0.9053
+Epoch 10/60: Train Loss: 0.0414
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 11/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 11/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9556
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.7000
+Epoch 11/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 11/60: Other classes accuracy after unlearning: 0.9211
+Epoch 11/60: Train Loss: 0.0445
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 12/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 12/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9672
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 1.0000
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.7000
+Epoch 12/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 12/60: Other classes accuracy after unlearning: 0.9211
+Epoch 12/60: Train Loss: 0.0485
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 13/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 13/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9836
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9556
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.7250
+Epoch 13/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 13/60: Other classes accuracy after unlearning: 0.9263
+Epoch 13/60: Train Loss: 0.0427
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 0.9948
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 14/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 14/60: Other classes accuracy during training: 0.9987
+Testing Class 0 accuracy after unlearning: 0.9836
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8667
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.8750
+Epoch 14/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 14/60: Other classes accuracy after unlearning: 0.9316
+Epoch 14/60: Train Loss: 0.0457
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 15/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 15/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8667
+Testing Class 3 accuracy after unlearning: 0.9545
+Testing Class 4 accuracy after unlearning: 0.9000
+Epoch 15/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 15/60: Other classes accuracy after unlearning: 0.9368
+Epoch 15/60: Train Loss: 0.0431
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 16/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 16/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9778
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.8000
+Epoch 16/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 16/60: Other classes accuracy after unlearning: 0.9526
+Epoch 16/60: Train Loss: 0.0419
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 17/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 17/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9672
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9556
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.7000
+Epoch 17/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 17/60: Other classes accuracy after unlearning: 0.9158
+Epoch 17/60: Train Loss: 0.0420
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 18/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 18/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9672
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8222
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.9750
+Epoch 18/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 18/60: Other classes accuracy after unlearning: 0.9421
+Epoch 18/60: Train Loss: 0.0425
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 0.9939
+Epoch 19/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 19/60: Other classes accuracy during training: 0.9987
+Testing Class 0 accuracy after unlearning: 0.9344
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9333
+Testing Class 3 accuracy after unlearning: 0.9545
+Testing Class 4 accuracy after unlearning: 0.9500
+Epoch 19/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 19/60: Other classes accuracy after unlearning: 0.9421
+Epoch 19/60: Train Loss: 0.0454
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 20/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 20/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 1.0000
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.8000
+Epoch 20/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 20/60: Other classes accuracy after unlearning: 0.9579
+Epoch 20/60: Train Loss: 0.0436
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 21/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 21/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 1.0000
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.7500
+Epoch 21/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 21/60: Other classes accuracy after unlearning: 0.9474
+Epoch 21/60: Train Loss: 0.0441
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 22/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 22/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 1.0000
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.8250
+Epoch 22/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 22/60: Other classes accuracy after unlearning: 0.9579
+Epoch 22/60: Train Loss: 0.0403
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 23/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 23/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9333
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.8250
+Epoch 23/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 23/60: Other classes accuracy after unlearning: 0.9421
+Epoch 23/60: Train Loss: 0.0420
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 0.9948
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 24/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 24/60: Other classes accuracy during training: 0.9987
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9556
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.9000
+Epoch 24/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 24/60: Other classes accuracy after unlearning: 0.9632
+Epoch 24/60: Train Loss: 0.0410
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 25/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 25/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9344
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 1.0000
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.9000
+Epoch 25/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 25/60: Other classes accuracy after unlearning: 0.9579
+Epoch 25/60: Train Loss: 0.0403
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 26/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 26/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8222
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.8500
+Epoch 26/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 26/60: Other classes accuracy after unlearning: 0.9211
+Epoch 26/60: Train Loss: 0.0386
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 27/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 27/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9111
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.9000
+Epoch 27/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 27/60: Other classes accuracy after unlearning: 0.9526
+Epoch 27/60: Train Loss: 0.0381
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 28/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 28/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9333
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.8750
+Epoch 28/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 28/60: Other classes accuracy after unlearning: 0.9526
+Epoch 28/60: Train Loss: 0.0418
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 29/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 29/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8444
+Testing Class 3 accuracy after unlearning: 0.9545
+Testing Class 4 accuracy after unlearning: 0.7750
+Epoch 29/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 29/60: Other classes accuracy after unlearning: 0.9053
+Epoch 29/60: Train Loss: 0.0412
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 30/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 30/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9836
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9333
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.8750
+Epoch 30/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 30/60: Other classes accuracy after unlearning: 0.9526
+Epoch 30/60: Train Loss: 0.0439
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 31/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 31/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8889
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.9000
+Epoch 31/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 31/60: Other classes accuracy after unlearning: 0.9474
+Epoch 31/60: Train Loss: 0.0378
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 32/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 32/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9836
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9111
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.9250
+Epoch 32/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 32/60: Other classes accuracy after unlearning: 0.9526
+Epoch 32/60: Train Loss: 0.0388
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 33/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 33/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9556
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.9500
+Epoch 33/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 33/60: Other classes accuracy after unlearning: 0.9789
+Epoch 33/60: Train Loss: 0.0394
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 0.9945
+Training Class 4 accuracy during training: 1.0000
+Epoch 34/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 34/60: Other classes accuracy during training: 0.9987
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9556
+Testing Class 3 accuracy after unlearning: 0.9545
+Testing Class 4 accuracy after unlearning: 0.8500
+Epoch 34/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 34/60: Other classes accuracy after unlearning: 0.9474
+Epoch 34/60: Train Loss: 0.0422
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 35/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 35/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9111
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.7750
+Epoch 35/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 35/60: Other classes accuracy after unlearning: 0.9316
+Epoch 35/60: Train Loss: 0.0417
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 36/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 36/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9333
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.8000
+Epoch 36/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 36/60: Other classes accuracy after unlearning: 0.9368
+Epoch 36/60: Train Loss: 0.0417
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 37/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 37/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8667
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.9250
+Epoch 37/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 37/60: Other classes accuracy after unlearning: 0.9474
+Epoch 37/60: Train Loss: 0.0390
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 38/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 38/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.7556
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.9750
+Epoch 38/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 38/60: Other classes accuracy after unlearning: 0.9316
+Epoch 38/60: Train Loss: 0.0415
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 39/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 39/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9672
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8667
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.9000
+Epoch 39/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 39/60: Other classes accuracy after unlearning: 0.9368
+Epoch 39/60: Train Loss: 0.0409
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 40/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 40/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9778
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.9250
+Epoch 40/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 40/60: Other classes accuracy after unlearning: 0.9789
+Epoch 40/60: Train Loss: 0.0388
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 41/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 41/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9111
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.9500
+Epoch 41/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 41/60: Other classes accuracy after unlearning: 0.9632
+Epoch 41/60: Train Loss: 0.0365
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 42/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 42/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8000
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.8750
+Epoch 42/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 42/60: Other classes accuracy after unlearning: 0.9263
+Epoch 42/60: Train Loss: 0.0374
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 43/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 43/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9508
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9778
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.9250
+Epoch 43/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 43/60: Other classes accuracy after unlearning: 0.9632
+Epoch 43/60: Train Loss: 0.0407
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 44/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 44/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9556
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.8000
+Epoch 44/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 44/60: Other classes accuracy after unlearning: 0.9474
+Epoch 44/60: Train Loss: 0.0394
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 45/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 45/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9836
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9778
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.8250
+Epoch 45/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 45/60: Other classes accuracy after unlearning: 0.9474
+Epoch 45/60: Train Loss: 0.0398
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 46/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 46/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9508
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8667
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.8500
+Epoch 46/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 46/60: Other classes accuracy after unlearning: 0.9211
+Epoch 46/60: Train Loss: 0.0402
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 47/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 47/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9672
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9111
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.9000
+Epoch 47/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 47/60: Other classes accuracy after unlearning: 0.9474
+Epoch 47/60: Train Loss: 0.0420
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 48/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 48/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8444
+Testing Class 3 accuracy after unlearning: 0.9545
+Testing Class 4 accuracy after unlearning: 0.9000
+Epoch 48/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 48/60: Other classes accuracy after unlearning: 0.9316
+Epoch 48/60: Train Loss: 0.0424
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 49/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 49/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8000
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.7750
+Epoch 49/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 49/60: Other classes accuracy after unlearning: 0.9000
+Epoch 49/60: Train Loss: 0.0422
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 50/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 50/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9672
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9333
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.9250
+Epoch 50/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 50/60: Other classes accuracy after unlearning: 0.9579
+Epoch 50/60: Train Loss: 0.0412
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 51/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 51/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9556
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.9250
+Epoch 51/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 51/60: Other classes accuracy after unlearning: 0.9684
+Epoch 51/60: Train Loss: 0.0388
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 52/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 52/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8667
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.9000
+Epoch 52/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 52/60: Other classes accuracy after unlearning: 0.9474
+Epoch 52/60: Train Loss: 0.0373
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 53/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 53/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8444
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.9500
+Epoch 53/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 53/60: Other classes accuracy after unlearning: 0.9474
+Epoch 53/60: Train Loss: 0.0372
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 54/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 54/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8889
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.8250
+Epoch 54/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 54/60: Other classes accuracy after unlearning: 0.9368
+Epoch 54/60: Train Loss: 0.0370
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 55/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 55/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9333
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.8250
+Epoch 55/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 55/60: Other classes accuracy after unlearning: 0.9474
+Epoch 55/60: Train Loss: 0.0374
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 56/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 56/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9836
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9111
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.9500
+Epoch 56/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 56/60: Other classes accuracy after unlearning: 0.9632
+Epoch 56/60: Train Loss: 0.0366
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 57/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 57/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 1.0000
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.8500
+Epoch 57/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 57/60: Other classes accuracy after unlearning: 0.9632
+Epoch 57/60: Train Loss: 0.0363
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 58/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 58/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 0.9672
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8222
+Testing Class 3 accuracy after unlearning: 1.0000
+Testing Class 4 accuracy after unlearning: 0.9000
+Epoch 58/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 58/60: Other classes accuracy after unlearning: 0.9263
+Epoch 58/60: Train Loss: 0.0390
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 59/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 59/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.9333
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.9250
+Epoch 59/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 59/60: Other classes accuracy after unlearning: 0.9632
+Epoch 59/60: Train Loss: 0.0404
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 0.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 60/60: Unlearned class (index 1) accuracy during training: 0.0000
+Epoch 60/60: Other classes accuracy during training: 1.0000
+Testing Class 0 accuracy after unlearning: 1.0000
+Testing Class 1 accuracy after unlearning: 0.0000
+Testing Class 2 accuracy after unlearning: 0.8222
+Testing Class 3 accuracy after unlearning: 0.9773
+Testing Class 4 accuracy after unlearning: 0.9500
+Epoch 60/60: Unlearned class (index 1) accuracy after unlearning: 0.0000
+Epoch 60/60: Other classes accuracy after unlearning: 0.9421
+Epoch 60/60: Train Loss: 0.0385
+--------------------------------------------

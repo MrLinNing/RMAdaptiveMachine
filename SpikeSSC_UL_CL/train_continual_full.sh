@@ -1,0 +1,12 @@
+python -u train_continual_full.py --mlp '140,512,5' \
+    --batch_size 128 \
+    --epoch 60 \
+    --lr 0.05 \
+    --Tw 10 \
+    --num_selected_speakers_continue 7\
+    --num_selected_speakers_pretrained 5\
+    --continue_learn_idx 6\
+    --previous_unlearn_idx 1\
+    --n_bins 5 \
+    --name 'snn_lsm_512_full_continue_5cls_10tw' \
+    --pretrained_model './checkpoints_randlabel_unlearn_full/snn_lsm_512_full_randlabel_5cls_10twat51.pth'

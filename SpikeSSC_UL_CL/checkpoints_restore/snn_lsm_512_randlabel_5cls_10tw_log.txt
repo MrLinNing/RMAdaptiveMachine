@@ -1,0 +1,976 @@
+
+-----------------Evaluating original model before adding noise...-----------------------
+Testing Class 0 accuracy: 1.0000
+Testing Class 1 accuracy: 1.0000
+Testing Class 2 accuracy: 0.9778
+Testing Class 3 accuracy: 1.0000
+Testing Class 4 accuracy: 0.9250
+
+-----------------Evaluating model after adding RRAM noise...-----------------------
+Testing Class 0 accuracy: 1.0000
+Testing Class 1 accuracy: 0.9375
+Testing Class 2 accuracy: 0.6889
+Testing Class 3 accuracy: 0.9773
+Testing Class 4 accuracy: 0.8750
+
+-----------------Starting restoration training...-----------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 1/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 0.9836
+Testing Class 1 accuracy after restoration: 0.9375
+Testing Class 2 accuracy after restoration: 0.9333
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 1/60: Unlearned class (index 1) accuracy after restoration: 0.9375
+Epoch 1/60: Other classes accuracy after restoration: 0.9632
+Epoch 1/60: Train Loss: 0.0123, Train Acc: 1.0000, Test Acc: 0.9580, Best Test Acc: 0.9580
+Epoch 1/60: Train Loss: 0.0123
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 2/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9375
+Testing Class 2 accuracy after restoration: 0.9333
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 2/60: Unlearned class (index 1) accuracy after restoration: 0.9375
+Epoch 2/60: Other classes accuracy after restoration: 0.9684
+Epoch 2/60: Train Loss: 0.0086, Train Acc: 1.0000, Test Acc: 0.9622, Best Test Acc: 0.9622
+Epoch 2/60: Train Loss: 0.0086
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 3/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9375
+Testing Class 2 accuracy after restoration: 0.9333
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 3/60: Unlearned class (index 1) accuracy after restoration: 0.9375
+Epoch 3/60: Other classes accuracy after restoration: 0.9579
+Epoch 3/60: Train Loss: 0.0071, Train Acc: 1.0000, Test Acc: 0.9538, Best Test Acc: 0.9622
+Epoch 3/60: Train Loss: 0.0071
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 4/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 0.9836
+Testing Class 1 accuracy after restoration: 0.9375
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8500
+Epoch 4/60: Unlearned class (index 1) accuracy after restoration: 0.9375
+Epoch 4/60: Other classes accuracy after restoration: 0.9526
+Epoch 4/60: Train Loss: 0.0064, Train Acc: 1.0000, Test Acc: 0.9496, Best Test Acc: 0.9622
+Epoch 4/60: Train Loss: 0.0064
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 5/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9583
+Testing Class 2 accuracy after restoration: 0.9333
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 5/60: Unlearned class (index 1) accuracy after restoration: 0.9583
+Epoch 5/60: Other classes accuracy after restoration: 0.9632
+Epoch 5/60: Train Loss: 0.0059, Train Acc: 1.0000, Test Acc: 0.9622, Best Test Acc: 0.9622
+Epoch 5/60: Train Loss: 0.0059
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 6/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9583
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 6/60: Unlearned class (index 1) accuracy after restoration: 0.9583
+Epoch 6/60: Other classes accuracy after restoration: 0.9684
+Epoch 6/60: Train Loss: 0.0056, Train Acc: 1.0000, Test Acc: 0.9664, Best Test Acc: 0.9664
+Epoch 6/60: Train Loss: 0.0056
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 7/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9583
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 7/60: Unlearned class (index 1) accuracy after restoration: 0.9583
+Epoch 7/60: Other classes accuracy after restoration: 0.9684
+Epoch 7/60: Train Loss: 0.0052, Train Acc: 1.0000, Test Acc: 0.9664, Best Test Acc: 0.9664
+Epoch 7/60: Train Loss: 0.0052
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 8/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9583
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 8/60: Unlearned class (index 1) accuracy after restoration: 0.9583
+Epoch 8/60: Other classes accuracy after restoration: 0.9632
+Epoch 8/60: Train Loss: 0.0050, Train Acc: 1.0000, Test Acc: 0.9622, Best Test Acc: 0.9664
+Epoch 8/60: Train Loss: 0.0050
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 9/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9583
+Testing Class 2 accuracy after restoration: 0.9333
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 9/60: Unlearned class (index 1) accuracy after restoration: 0.9583
+Epoch 9/60: Other classes accuracy after restoration: 0.9632
+Epoch 9/60: Train Loss: 0.0047, Train Acc: 1.0000, Test Acc: 0.9622, Best Test Acc: 0.9664
+Epoch 9/60: Train Loss: 0.0047
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 10/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9333
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 10/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 10/60: Other classes accuracy after restoration: 0.9579
+Epoch 10/60: Train Loss: 0.0046, Train Acc: 1.0000, Test Acc: 0.9622, Best Test Acc: 0.9664
+Epoch 10/60: Train Loss: 0.0046
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 11/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9333
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 11/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 11/60: Other classes accuracy after restoration: 0.9632
+Epoch 11/60: Train Loss: 0.0045, Train Acc: 1.0000, Test Acc: 0.9664, Best Test Acc: 0.9664
+Epoch 11/60: Train Loss: 0.0045
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 12/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9333
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 12/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 12/60: Other classes accuracy after restoration: 0.9684
+Epoch 12/60: Train Loss: 0.0043, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9706
+Epoch 12/60: Train Loss: 0.0043
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 13/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9333
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 13/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 13/60: Other classes accuracy after restoration: 0.9684
+Epoch 13/60: Train Loss: 0.0042, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9706
+Epoch 13/60: Train Loss: 0.0042
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 14/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 14/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 14/60: Other classes accuracy after restoration: 0.9684
+Epoch 14/60: Train Loss: 0.0040, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9706
+Epoch 14/60: Train Loss: 0.0040
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 15/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 15/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 15/60: Other classes accuracy after restoration: 0.9737
+Epoch 15/60: Train Loss: 0.0040, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9748
+Epoch 15/60: Train Loss: 0.0040
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 16/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 16/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 16/60: Other classes accuracy after restoration: 0.9737
+Epoch 16/60: Train Loss: 0.0040, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9748
+Epoch 16/60: Train Loss: 0.0040
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 17/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9333
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 17/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 17/60: Other classes accuracy after restoration: 0.9632
+Epoch 17/60: Train Loss: 0.0039, Train Acc: 1.0000, Test Acc: 0.9664, Best Test Acc: 0.9748
+Epoch 17/60: Train Loss: 0.0039
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 18/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 1.0000
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 18/60: Unlearned class (index 1) accuracy after restoration: 1.0000
+Epoch 18/60: Other classes accuracy after restoration: 0.9737
+Epoch 18/60: Train Loss: 0.0040, Train Acc: 1.0000, Test Acc: 0.9790, Best Test Acc: 0.9790
+Epoch 18/60: Train Loss: 0.0040
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 19/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 1.0000
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 19/60: Unlearned class (index 1) accuracy after restoration: 1.0000
+Epoch 19/60: Other classes accuracy after restoration: 0.9789
+Epoch 19/60: Train Loss: 0.0039, Train Acc: 1.0000, Test Acc: 0.9832, Best Test Acc: 0.9832
+Epoch 19/60: Train Loss: 0.0039
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 20/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 0.9836
+Testing Class 1 accuracy after restoration: 1.0000
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 20/60: Unlearned class (index 1) accuracy after restoration: 1.0000
+Epoch 20/60: Other classes accuracy after restoration: 0.9737
+Epoch 20/60: Train Loss: 0.0038, Train Acc: 1.0000, Test Acc: 0.9790, Best Test Acc: 0.9832
+Epoch 20/60: Train Loss: 0.0038
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 21/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 1.0000
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 21/60: Unlearned class (index 1) accuracy after restoration: 1.0000
+Epoch 21/60: Other classes accuracy after restoration: 0.9684
+Epoch 21/60: Train Loss: 0.0038, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9832
+Epoch 21/60: Train Loss: 0.0038
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 22/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 1.0000
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 22/60: Unlearned class (index 1) accuracy after restoration: 1.0000
+Epoch 22/60: Other classes accuracy after restoration: 0.9684
+Epoch 22/60: Train Loss: 0.0039, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9832
+Epoch 22/60: Train Loss: 0.0039
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 23/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9333
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 23/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 23/60: Other classes accuracy after restoration: 0.9684
+Epoch 23/60: Train Loss: 0.0038, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9832
+Epoch 23/60: Train Loss: 0.0038
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 24/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9333
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 24/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 24/60: Other classes accuracy after restoration: 0.9684
+Epoch 24/60: Train Loss: 0.0037, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9832
+Epoch 24/60: Train Loss: 0.0037
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 25/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 25/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 25/60: Other classes accuracy after restoration: 0.9684
+Epoch 25/60: Train Loss: 0.0037, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9832
+Epoch 25/60: Train Loss: 0.0037
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 26/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 26/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 26/60: Other classes accuracy after restoration: 0.9684
+Epoch 26/60: Train Loss: 0.0036, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9832
+Epoch 26/60: Train Loss: 0.0036
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 27/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 27/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 27/60: Other classes accuracy after restoration: 0.9737
+Epoch 27/60: Train Loss: 0.0037, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9832
+Epoch 27/60: Train Loss: 0.0037
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 28/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 28/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 28/60: Other classes accuracy after restoration: 0.9789
+Epoch 28/60: Train Loss: 0.0036, Train Acc: 1.0000, Test Acc: 0.9790, Best Test Acc: 0.9832
+Epoch 28/60: Train Loss: 0.0036
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 29/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 29/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 29/60: Other classes accuracy after restoration: 0.9789
+Epoch 29/60: Train Loss: 0.0036, Train Acc: 1.0000, Test Acc: 0.9790, Best Test Acc: 0.9832
+Epoch 29/60: Train Loss: 0.0036
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 30/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 30/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 30/60: Other classes accuracy after restoration: 0.9789
+Epoch 30/60: Train Loss: 0.0036, Train Acc: 1.0000, Test Acc: 0.9790, Best Test Acc: 0.9832
+Epoch 30/60: Train Loss: 0.0036
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 31/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 31/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 31/60: Other classes accuracy after restoration: 0.9737
+Epoch 31/60: Train Loss: 0.0036, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9832
+Epoch 31/60: Train Loss: 0.0036
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 32/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 32/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 32/60: Other classes accuracy after restoration: 0.9737
+Epoch 32/60: Train Loss: 0.0035, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9832
+Epoch 32/60: Train Loss: 0.0035
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 33/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 33/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 33/60: Other classes accuracy after restoration: 0.9684
+Epoch 33/60: Train Loss: 0.0034, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9832
+Epoch 33/60: Train Loss: 0.0034
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 34/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 34/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 34/60: Other classes accuracy after restoration: 0.9737
+Epoch 34/60: Train Loss: 0.0034, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9832
+Epoch 34/60: Train Loss: 0.0034
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 35/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 35/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 35/60: Other classes accuracy after restoration: 0.9684
+Epoch 35/60: Train Loss: 0.0035, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9832
+Epoch 35/60: Train Loss: 0.0035
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 36/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 36/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 36/60: Other classes accuracy after restoration: 0.9684
+Epoch 36/60: Train Loss: 0.0034, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9832
+Epoch 36/60: Train Loss: 0.0034
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 37/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8500
+Epoch 37/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 37/60: Other classes accuracy after restoration: 0.9632
+Epoch 37/60: Train Loss: 0.0035, Train Acc: 1.0000, Test Acc: 0.9664, Best Test Acc: 0.9832
+Epoch 37/60: Train Loss: 0.0035
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 38/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9333
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 38/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 38/60: Other classes accuracy after restoration: 0.9579
+Epoch 38/60: Train Loss: 0.0034, Train Acc: 1.0000, Test Acc: 0.9622, Best Test Acc: 0.9832
+Epoch 38/60: Train Loss: 0.0034
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 39/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 39/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 39/60: Other classes accuracy after restoration: 0.9684
+Epoch 39/60: Train Loss: 0.0034, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9832
+Epoch 39/60: Train Loss: 0.0034
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 40/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 40/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 40/60: Other classes accuracy after restoration: 0.9789
+Epoch 40/60: Train Loss: 0.0034, Train Acc: 1.0000, Test Acc: 0.9790, Best Test Acc: 0.9832
+Epoch 40/60: Train Loss: 0.0034
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 41/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 1.0000
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 41/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 41/60: Other classes accuracy after restoration: 0.9842
+Epoch 41/60: Train Loss: 0.0034, Train Acc: 1.0000, Test Acc: 0.9832, Best Test Acc: 0.9832
+Epoch 41/60: Train Loss: 0.0034
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 42/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9583
+Testing Class 2 accuracy after restoration: 0.9333
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 42/60: Unlearned class (index 1) accuracy after restoration: 0.9583
+Epoch 42/60: Other classes accuracy after restoration: 0.9579
+Epoch 42/60: Train Loss: 0.0033, Train Acc: 1.0000, Test Acc: 0.9580, Best Test Acc: 0.9832
+Epoch 42/60: Train Loss: 0.0033
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 43/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 43/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 43/60: Other classes accuracy after restoration: 0.9632
+Epoch 43/60: Train Loss: 0.0033, Train Acc: 1.0000, Test Acc: 0.9664, Best Test Acc: 0.9832
+Epoch 43/60: Train Loss: 0.0033
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 44/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 44/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 44/60: Other classes accuracy after restoration: 0.9632
+Epoch 44/60: Train Loss: 0.0033, Train Acc: 1.0000, Test Acc: 0.9664, Best Test Acc: 0.9832
+Epoch 44/60: Train Loss: 0.0033
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 45/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 45/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 45/60: Other classes accuracy after restoration: 0.9684
+Epoch 45/60: Train Loss: 0.0034, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9832
+Epoch 45/60: Train Loss: 0.0034
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 46/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 46/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 46/60: Other classes accuracy after restoration: 0.9632
+Epoch 46/60: Train Loss: 0.0033, Train Acc: 1.0000, Test Acc: 0.9664, Best Test Acc: 0.9832
+Epoch 46/60: Train Loss: 0.0033
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 47/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9583
+Testing Class 2 accuracy after restoration: 1.0000
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 47/60: Unlearned class (index 1) accuracy after restoration: 0.9583
+Epoch 47/60: Other classes accuracy after restoration: 0.9842
+Epoch 47/60: Train Loss: 0.0033, Train Acc: 1.0000, Test Acc: 0.9790, Best Test Acc: 0.9832
+Epoch 47/60: Train Loss: 0.0033
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 48/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9583
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 48/60: Unlearned class (index 1) accuracy after restoration: 0.9583
+Epoch 48/60: Other classes accuracy after restoration: 0.9632
+Epoch 48/60: Train Loss: 0.0032, Train Acc: 1.0000, Test Acc: 0.9622, Best Test Acc: 0.9832
+Epoch 48/60: Train Loss: 0.0032
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 49/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 1.0000
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 49/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 49/60: Other classes accuracy after restoration: 0.9737
+Epoch 49/60: Train Loss: 0.0032, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9832
+Epoch 49/60: Train Loss: 0.0032
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 50/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 50/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 50/60: Other classes accuracy after restoration: 0.9684
+Epoch 50/60: Train Loss: 0.0031, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9832
+Epoch 50/60: Train Loss: 0.0031
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 51/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 51/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 51/60: Other classes accuracy after restoration: 0.9684
+Epoch 51/60: Train Loss: 0.0032, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9832
+Epoch 51/60: Train Loss: 0.0032
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 52/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 52/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 52/60: Other classes accuracy after restoration: 0.9684
+Epoch 52/60: Train Loss: 0.0032, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9832
+Epoch 52/60: Train Loss: 0.0032
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 53/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 53/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 53/60: Other classes accuracy after restoration: 0.9737
+Epoch 53/60: Train Loss: 0.0032, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9832
+Epoch 53/60: Train Loss: 0.0032
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 54/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9250
+Epoch 54/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 54/60: Other classes accuracy after restoration: 0.9737
+Epoch 54/60: Train Loss: 0.0032, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9832
+Epoch 54/60: Train Loss: 0.0032
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 55/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 55/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 55/60: Other classes accuracy after restoration: 0.9684
+Epoch 55/60: Train Loss: 0.0032, Train Acc: 1.0000, Test Acc: 0.9706, Best Test Acc: 0.9832
+Epoch 55/60: Train Loss: 0.0032
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 56/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 56/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 56/60: Other classes accuracy after restoration: 0.9737
+Epoch 56/60: Train Loss: 0.0032, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9832
+Epoch 56/60: Train Loss: 0.0032
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 57/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9556
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.8750
+Epoch 57/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 57/60: Other classes accuracy after restoration: 0.9632
+Epoch 57/60: Train Loss: 0.0032, Train Acc: 1.0000, Test Acc: 0.9664, Best Test Acc: 0.9832
+Epoch 57/60: Train Loss: 0.0032
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 58/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 58/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 58/60: Other classes accuracy after restoration: 0.9737
+Epoch 58/60: Train Loss: 0.0032, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9832
+Epoch 58/60: Train Loss: 0.0032
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 59/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 59/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 59/60: Other classes accuracy after restoration: 0.9737
+Epoch 59/60: Train Loss: 0.0031, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9832
+Epoch 59/60: Train Loss: 0.0031
+--------------------------------------------
+Training Class 0 accuracy during training: 1.0000
+Training Class 1 accuracy during training: 1.0000
+Training Class 2 accuracy during training: 1.0000
+Training Class 3 accuracy during training: 1.0000
+Training Class 4 accuracy during training: 1.0000
+Epoch 60/60: Train Acc: 1.0000
+Testing Class 0 accuracy after restoration: 1.0000
+Testing Class 1 accuracy after restoration: 0.9792
+Testing Class 2 accuracy after restoration: 0.9778
+Testing Class 3 accuracy after restoration: 1.0000
+Testing Class 4 accuracy after restoration: 0.9000
+Epoch 60/60: Unlearned class (index 1) accuracy after restoration: 0.9792
+Epoch 60/60: Other classes accuracy after restoration: 0.9737
+Epoch 60/60: Train Loss: 0.0031, Train Acc: 1.0000, Test Acc: 0.9748, Best Test Acc: 0.9832
+Epoch 60/60: Train Loss: 0.0031
+--------------------------------------------
